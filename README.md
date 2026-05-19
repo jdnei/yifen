@@ -64,7 +64,7 @@
 由于一分机场单价极低，其服务稳定性在特殊时期（如重大会议期间）可能不如主打 IEPL 专线的机场。
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/yifen/blob/main/yifen/MiaoKo-%20.xyz-4313-speed.png?raw=ture)  
 #### 2.流媒体解锁报告  
 ![image](https://github.com/jdnei/yifen/blob/main/yifen/MiaoKo-%20.xyz-1197-test.png?raw=ture)    
 #### 3.落地入口分析  
