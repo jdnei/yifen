@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی YifenCloud Airport (به‌روزرسانی 6 ژوئیه 2026)
+# آدرس رسمی YifenCloud Airport (به‌روزرسانی 7 ژوئیه 2026)
 
 آخرین آدرس رسمی: [一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)
 
