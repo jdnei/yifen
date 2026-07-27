@@ -3,7 +3,7 @@
 
 # YifenCloud 一分机场官方地址(2026年7月26日更新)
 YifenCloud 一分机场官网地址</br>
-官方最新地址： [一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca) 
+官方最新地址： [一分机场.com](https://to.iix.im/yf01) 
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
