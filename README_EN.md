@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# YifenCloud VPN Official Address (Updated August 11, 2026)
+# YifenCloud VPN Official Address (Updated August 12, 2026)
 
 YifenCloud VPN Official Website Address</br>
 Latest Official Address: [一分机场.com](https://to.iix.im/yf01)
