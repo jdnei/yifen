@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی YifenCloud VPN (به‌روزرسانی 20 اوت 2026)
+# آدرس رسمی YifenCloud VPN (به‌روزرسانی 21 اوت 2026)
 
 آدرس وب‌سایت رسمی YifenCloud VPN</br>
 جدیدترین آدرس رسمی: [一分机场.com](https://to.iix.im/yf01)
